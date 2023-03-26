@@ -1,16 +1,9 @@
-# bmi_calculator
+# Bmi_Calculator
 
-A new Flutter project.
+By calculating the body mass index (BMI) in the Bmi Calculator application, we determine whether the person is normal, overweight or underweight.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+https://user-images.githubusercontent.com/100719856/227785659-fecbba76-0a94-4298-9e37-056783b3e63e.mp4
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
