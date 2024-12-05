@@ -34,16 +34,16 @@ https://github.com/user-attachments/assets/f62dcf29-4e4e-4620-b1e5-b3b386cddbaf
 ## 📸 Screenshots
 
 1. **Input Page**
-   
- ![BMI_calculator-0](https://github.com/user-attachments/assets/d5785aa4-5b68-4def-a91a-5f02486ba539)
+
+   ![BMI_calculator-0](https://github.com/user-attachments/assets/22dead0f-f6c3-46de-9b50-2d9c5852fe98)
 
 3. **Results Page**
-   
-   ![BMI_calculator-1](https://github.com/user-attachments/assets/649102aa-68db-4ef3-83b3-e0655e38e2b3)
 
-   ![BMI_calculator-2](https://github.com/user-attachments/assets/01c5b7f8-9a1a-4ba6-a178-96ffdba3fd1a)
+   ![BMI_calculator-1](https://github.com/user-attachments/assets/77b3e6a0-fc58-4a70-b488-f9cc99f591db)
 
-   ![BMI_calculator-3](https://github.com/user-attachments/assets/aec6acd9-57ff-4bcf-8ee1-000554660721)
+   ![BMI_calculator-2](https://github.com/user-attachments/assets/bffd7496-b941-4001-8a52-2ac1f578ff7a)
+
+   ![BMI_calculator-3](https://github.com/user-attachments/assets/ddf2749f-86e8-4703-9591-e485d313b9fe)
 
 ---
 
